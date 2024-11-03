@@ -1,1 +1,4 @@
-# Make_It_Simple
+# Digital Trust Unlocker: Simplifying Terms and Conditions for Enhanced Data Privacy
+The Digital Trust Unlocker app addresses the urgent need for data privacy in today’s digital world. With rising cases of data theft, often undetected and facilitated by deceptive practices, the app empowers users by providing transparency around data collection. Built on a trained Large Language Model (LLM), Digital Trust Unlocker can interpret and simplify complex terms and conditions (T&Cs) into easy-to-understand summaries, helping users make informed choices about which apps they trust with their data.
+
+Purpose and Solution: The mobile application uses advanced LMMs to break down complex legal language into concise summaries that highlight key points, allowing users to quickly understand the types of data collected and their potential implications. By providing this clarity, Digital Trust Unlocker equips users to make well-informed privacy decisions before they even sign in.
